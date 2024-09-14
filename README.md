@@ -3,7 +3,8 @@ T-Pot is an all-in-one, open-source honeypot platform designed to simplify the d
 
 
 ************
-Key Features 
+Key Features:
+
 Multiple Honeypots: T-Pot includes a wide range of pre-configured honeypots like Cowrie, Dionaea, ElasticHoney, and many more.
 
 Visualization: Utilizes the Elastic Stack for data visualization and provides animated live attack maps.
